@@ -2,8 +2,8 @@
 
 ![PHOTO OF A MAN SWINGING A GOLF CLUB DRIVER](https://images.unsplash.com/photo-1535131749006-b7f58c99034b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-> Purchase clubs fitted to the type of game you want to play and the skill level you are based as. See a representatvie at your nearest golf store to find out information. Use [Google](www.google.com) to search for stores near you! 
->> Purchase a computer with the proper format for writing code. 
+> Purchase golf clubs suited to the type of game you want to play and your skill level. Visit a representative at your nearest golf store for more information. Use [Google](www.google.com) to search for stores near you!
+>> Purchase a computer with the proper specifications for writing code.
 
 
 ## 1. Grip the Club 
